@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.1.35](https://github.com/mckinsey/agents-at-scale-ark/compare/v0.1.34...v0.1.35) (2025-09-23)
+
+
+### Features
+
+* add ark-cluster-memory service for in-memory message storage ([#151](https://github.com/mckinsey/agents-at-scale-ark/issues/151)) ([b5d70bd](https://github.com/mckinsey/agents-at-scale-ark/commit/b5d70bd3cd6486a8159f9445153130f0790ea3e0))
+* Agents can reference Query Parameters ([#140](https://github.com/mckinsey/agents-at-scale-ark/issues/140)) ([33e1a2d](https://github.com/mckinsey/agents-at-scale-ark/commit/33e1a2de0914d713399c232761ae08273b5737b8))
+* model status refresh interval and conditions ([#72](https://github.com/mckinsey/agents-at-scale-ark/issues/72)) ([850a49d](https://github.com/mckinsey/agents-at-scale-ark/commit/850a49d83bd00ee659c9189277ec6646ecd139bd))
+
+
+### Bug Fixes
+
+* add multi-platform fark binaries to releases and improve installation docs ([#136](https://github.com/mckinsey/agents-at-scale-ark/issues/136)) ([ced0c7a](https://github.com/mckinsey/agents-at-scale-ark/commit/ced0c7a4a5fad3443954469bb4084ae47c703203))
+* agent availability conditions ([#157](https://github.com/mckinsey/agents-at-scale-ark/issues/157)) ([209a4a6](https://github.com/mckinsey/agents-at-scale-ark/commit/209a4a62bdfa0e50eb8e94f996566619699626ff))
+* status condition not met for model ([#159](https://github.com/mckinsey/agents-at-scale-ark/issues/159)) ([273101a](https://github.com/mckinsey/agents-at-scale-ark/commit/273101a351f41fe7231f06a91b0d4665b3662c3a))
+* time stamp in memory logs ([#164](https://github.com/mckinsey/agents-at-scale-ark/issues/164)) ([c06bb37](https://github.com/mckinsey/agents-at-scale-ark/commit/c06bb371fac76e0fb67c9c1cf71c67bda8cfd31b))
+
 ## [0.1.34](https://github.com/mckinsey/agents-at-scale-ark/compare/v0.1.33...v0.1.34) (2025-09-19)
 
 
